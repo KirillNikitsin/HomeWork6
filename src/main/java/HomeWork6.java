@@ -25,7 +25,7 @@ public class HomeWork6 {
 
         }
         System.out.println("Общее количество котов: " + cats);
-        System.out.println("Общее количество Собак: " + dogs);
+        System.out.println("Общее количество cобак: " + dogs);
         System.out.println("Общее количество животных: " + (dogs+cats));
 
     }
